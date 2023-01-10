@@ -30,14 +30,14 @@ def gcd():
     c=int(input())
 
     b=math.gcd(a,c)
-    
+
     print("GCD of two numbers is:",b)    
     
         
 
 
 ## Output:
-![model](gcd.png)
+![model](output.png)
 
 
 ## Result:
