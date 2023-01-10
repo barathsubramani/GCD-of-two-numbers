@@ -21,9 +21,23 @@ Developed by:
 RegisterNumber:  
 */
 ```
+import math
+
+def gcd():
+
+    a=int(input())
+
+    c=int(input())
+
+    b=math.gcd(a,c)
+    
+    print("GCD of two numbers is:",b)    
+    
+        
+
 
 ## Output:
-![gcd of two number](gcd.png)
+![model](gcd.png)
 
 
 ## Result:
